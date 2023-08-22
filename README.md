@@ -1,6 +1,6 @@
 # Foundry Fund Me
 
-This is a Fund Me Smart Contract written in Solidity based on the Cyfrin Solidity Course available [here](https://www.youtube.com/watch?v=sas02qSFZ74&t=0s)*
+This is a Fund Me Smart Contract written in Solidity based on the Cyfrin Solidity Course available [here](https://www.youtube.com/watch?v=sas02qSFZ74&t=0s)
 
 # Getting Started
 
@@ -23,7 +23,7 @@ forge build
 
 If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)]()
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/new/#snapshot/c8daa82a-eb6c-41d0-b2b4-47512fd2a3f7)
 
 # Usage
 
